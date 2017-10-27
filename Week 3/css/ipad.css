@@ -1,0 +1,107 @@
+@media only screen and (min-width:768px) and (max-width:1099px){
+  
+  body{
+  
+  background-color: orange;
+  font-family: Raleway, sans-serif;
+  }
+  
+  .search-area{
+    width: 100%;
+    clear: both;
+    
+  }
+  
+  .map-banner{
+    width: 100%;
+    clear: both;
+  }
+  
+  .search-banner{
+    
+    width: 100%;
+    
+  }
+  
+  .search-banner-list li{
+    
+    padding-left: 4%;
+    padding-right: 4%;
+    
+  }
+  
+  .search-tool{
+    
+    width: 100%;
+  }
+  
+  .main-banner{
+    
+    height: 3400px;
+    
+  }
+  .footer-list:nth-child(-n+4){
+    
+    padding-right: 5px;
+    padding-left: 25px;
+  
+  }
+  
+  .homes{
+    
+    margin-bottom: 150px;
+    height: 1210px;
+    
+  }
+  
+  .featured-home{
+    
+    height: 263px;
+    margin-bottom: 147px;
+}
+  
+  .featured-home:hover{
+  
+  margin-bottom: 0px;
+  
+}
+  
+  @keyframes homeImg{
+  
+  from{
+    
+    height: 263px;
+    
+  }
+  
+  to{
+    
+    height: 410px;
+  }
+  
+}
+  
+  .featured-home:nth-last-child(3){
+    
+    margin-right:50px;
+    
+  }
+  
+  .featured-home img{
+    
+    width: 25em;
+    
+  }
+ 
+}
+
+.top-footer{
+  
+  height: 350px;
+  
+}
+
+.bottom-footer{
+  
+  margin-top: 20px;
+}

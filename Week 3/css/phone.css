@@ -1,0 +1,135 @@
+@media only screen and (min-width:320px) and (max-width:767px){
+  
+  body{
+  
+  background-color: orange;
+  font-family: Raleway, sans-serif;
+  }
+  
+  .bar{
+   
+    height: 160px;
+    
+  }
+  
+  .search-area{
+    width: 100%;
+    clear: both;
+    
+  }
+  
+  .map-banner{
+    
+    margin-left: 0px;
+    margin-top: 40px;
+    width: 100%;
+    clear: both;
+  }
+  
+  .search-banner{
+    
+    width: 100%;
+    height: 120px;
+  }
+  
+  .search-banner-list li{
+    
+    padding-left: 5%;
+    padding-right: 5%;
+    
+  }
+  
+  .search-tool{
+    
+    width: 100%;
+  }
+  
+  .main-banner{
+    
+    padding: 0px;
+    margin: 0px;
+    margin-top: 20px;
+    height: 3300px;
+    
+  }
+  .footer-list:nth-child(-n+4){
+    
+    padding-right: 5px;
+    padding-left: 25px;
+  
+  }
+  
+  .homes{
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 150px;
+    height: 1210px;
+    
+  }
+  
+  .featured-home{
+    margin: 0px;
+    padding: 0px;
+    height: 223px;
+    margin-bottom: 147px;
+}
+  
+  .featured-home:hover{
+  
+  margin-bottom: 0px;
+  
+}
+  
+  @keyframes homeImg{
+  
+  from{
+    
+    height: 263px;
+    
+  }
+  
+  to{
+    
+    height: 360px;
+  }
+  
+}
+
+.featured-home:nth-last-child(3){
+    
+    margin-right:0px;
+    
+  }
+  
+.featured-home img{
+    
+    width: 21em;
+    
+  }
+ 
+}
+
+.featured-homes-items{
+  padding: 0px;
+  
+}
+
+.featured-homes-items li{
+  
+  margin-left: 20px;
+  margin-bottom: 137px;
+  padding: 0px;
+  
+}
+.top-footer{
+  
+  height: 360px;
+  margin: 0px;
+}
+
+.bottom-footer{
+  
+  margin: 0px;
+  margin-top: 20px;
+  
+}
